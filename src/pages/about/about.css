@@ -1,0 +1,56 @@
+#about{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 7rem;
+}
+
+#aboutWrap{
+    width: 50%;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    gap:2rem
+}
+
+#aboutH{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#aboutWrap{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#aboutWrap a{
+    text-decoration: underline;
+    font-size: 1rem;
+}
+
+#aboutWrap img{
+    width: 1.1rem;
+    height: 1.1rem;
+}
+
+
+#aboutWrap a:hover{}
+
+#aboutWrap p{
+    font-size: 1rem;
+    line-height: 30px;
+}
+
+@media (min-width:250px) and (max-width:1024px){
+    #about{
+        padding-top: 5rem;
+    }
+    
+    #aboutWrap{
+        width: 90%;
+        gap:1rem
+    }
+    
+}

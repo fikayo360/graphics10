@@ -1,0 +1,57 @@
+#faqs{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    background-color: rgba(29, 28, 28, 0.877);
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.faqUp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.7rem;
+}
+
+.faqUp h1{
+    font-size: 1rem;
+    line-height: 0px;
+}
+
+.faqUp img{
+    width: 1rem;
+    height: 1rem;
+    cursor: pointer;
+}
+
+#faqsP{
+    font-size: 1rem;
+}
+
+.show{
+    display: block;
+    opacity: 1;
+}
+
+.hide{
+    display: none;
+}
+
+
+@media (min-width:250px) and (max-width:480px){
+    .faqUp h1{
+        font-size: 0.7rem;
+    }
+    
+    .faqUp img{
+        width: 0.6rem;
+        height: 0.6rem;
+    }
+    
+    #faqsP{
+        font-size: 0.8rem;
+        font-weight: 500;
+    }
+}

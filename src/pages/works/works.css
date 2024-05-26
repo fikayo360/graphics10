@@ -1,0 +1,81 @@
+#works{
+    width: 100vw;
+    height: auto;
+    padding: 3rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+#wkWrap{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-align: left;
+}
+
+#wHead{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.wWrap{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap:0.5rem;
+    text-align: left;
+    position: relative;
+}
+
+.designItem{
+    width: fit-content;
+    height: auto;
+}
+
+.designItem img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.wLabel{
+    position: absolute;
+    top:0.2rem;
+    left: 0;
+    width:fit-content;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(138, 32, 124);
+    border-radius: 20px;
+}
+
+.wLabel h1{
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.ww{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.ww h1{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+@media (min-width:250px) and (max-width:1024px){
+    #wkWrap{
+        width: 90%;
+    }
+    
+}

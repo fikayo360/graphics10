@@ -1,0 +1,91 @@
+#contact{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0;
+}
+
+#cWrap{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: left;
+}
+
+#cHead{
+    font-size: 1.2rem;
+}
+
+#cWrap form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#cWrap form input{
+    height: 3.5rem;
+    
+}
+
+#cWrap form textarea{
+    height: 8rem;
+}
+
+#cWrap form input::placeholder,#cWrap form textarea::placeholder{
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+#cWrap form input,#cWrap form textarea{
+    width: 70%;
+    font-size: 1rem;
+    background-color: rgba(29, 28, 28, 0.877);
+    color: white;
+    padding:8px;
+    border-radius: 5px;
+    border: 0.1px solid black;
+}
+
+#cWrap form button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+#cWrap form button:hover{
+    color: grey;
+}
+
+@media (min-width:250px) and (max-width:1024px){
+    #cWrap{
+        width: 90%;
+    }
+
+    #cWrap form input,#cWrap form textarea{
+        width: 100%;
+    }
+    
+    #cWrap form button{
+        width: 100%;
+        font-size: 1.1rem;
+    }
+}
+
+@media (min-width:250px) and (max-width:480px){
+    #cWrap form input,#cWrap form textarea,#cWrap form input::placeholder,#cWrap form textarea::placeholder{
+        font-size: 0.8rem;
+    }
+}
+
+@media (min-width:481px) and (max-width:640px){
+    #cWrap form input,#cWrap form textarea,#cWrap form input::placeholder,#cWrap form textarea::placeholder{
+        font-size: 0.9rem;
+    }
+}

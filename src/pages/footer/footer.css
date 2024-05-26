@@ -1,0 +1,91 @@
+#footer{
+    width: 100vw;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+
+#fup{
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#fup p{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#fup ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+#fup ul li a{
+    font-size: 1rem;
+}
+
+#fup ul li a:hover{
+    color: rgb(121, 119, 117);
+}
+
+@media (min-width:250px) and (max-width:1024px){
+    #fup{
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (min-width:250px) and (max-width:480px){
+    #fup p{
+        font-size: 0.6rem;
+        font-weight: 800;
+    }
+    
+    #fup ul{
+        gap: 0.5rem;
+    }
+    
+    #fup ul li a{
+        font-size: 0.6rem;
+    }
+}
+
+@media (min-width:481px) and (max-width:640px){
+    #fup p{
+        font-size: 0.7rem;
+        font-weight: 800;
+    }
+    
+    #fup ul{
+        gap: 0.6rem;
+    }
+    
+    #fup ul li a{
+        font-size: 0.7rem;
+    }
+}
+
+@media (min-width:641px) and (max-width:1280px){
+    #fup p{
+        font-size: 0.9rem;
+        font-weight: 800;
+    }
+    
+    #fup ul{
+        gap: 0.7rem;
+    }
+    
+    #fup ul li a{
+        font-size: 0.8rem;
+    }
+}
