@@ -26,7 +26,7 @@ export const Reviews = () => {
             <h1 id='rHead'>Reviews</h1>
             <div id='allReviews'>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -40,7 +40,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -54,7 +54,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -68,7 +68,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -82,7 +82,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -96,7 +96,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -110,7 +110,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
@@ -124,7 +124,7 @@ export const Reviews = () => {
                     </div>
                 </div>
                 <div className="review">
-                    <p className='rFp'>I have benefited from Jades’ services for a full UI/UX project, with an engagement that lasted about 3 months.
+                    <p className='rFp'>I have benefited from Ansa services for a full UI/UX project, with an engagement that lasted about 3 months.
                          I couldn't be more enthusiastic about the intelligent, subtle and pragmatic approach taken by Amjad along the path. 
                          Always available and he & the team delivered great results while also meeting all 
                         the interim deadlines and objectives. Already impatient for the next project we can work on together!
