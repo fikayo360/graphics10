@@ -52,7 +52,7 @@ export const Hero = () => {
         <section id="hero" ref={container}>
              <div className={`nav ${hasScrolled ? 'scrolled' : ''}`}>
                      <div className='hB'>
-                        <img src='./grph.png'/>
+                  
                         <h1 id='nLeft' className='txtG'>
                             Ansa
                         </h1>
